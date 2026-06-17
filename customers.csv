@@ -1,0 +1,81 @@
+id,name,age,city,fav_category,last_purchase,total_spent,visits_per_month,cart_abandoned,avg_order_value,active_time
+1,Ethan,35,Chennai,Home Decor,Table Lamp,41764,19,No,1524,Afternoon
+2,Logan,33,Delhi,Sportswear,Track Pants,49757,17,No,6827,Night
+3,Vasana,53,Kolkata,Sportswear,Gym Bag,10111,16,No,3359,Afternoon
+4,Noah,43,Chennai,Books,Fiction Novel,48735,6,Yes,7674,Afternoon
+5,Zinal,38,Hyderabad,Fashion,Sunglasses,8079,3,No,5530,Morning
+6,Tanvi,36,Hyderabad,Books,Self-Help Book,25548,23,Yes,2114,Morning
+7,Indali,49,Bangalore,Sportswear,Gym Bag,8138,8,Yes,3391,Night
+8,Hardik,40,Chennai,Books,Cookbook,15952,25,Yes,5396,Morning
+9,Vasatika,31,Pune,Fashion,Sneakers,11753,10,No,5075,Afternoon
+10,Qushi,37,Hyderabad,Home Decor,Wall Art,39346,12,No,7274,Morning
+11,Warda,28,Kolkata,Beauty,Skincare Set,34099,17,No,5723,Evening
+12,Ati,30,Mumbai,Beauty,Face Serum,22317,25,No,4438,Evening
+13,Aditya,52,Hyderabad,Fashion,Denim Jacket,8671,10,No,7266,Morning
+14,Azad,47,Bangalore,Beauty,Perfume,6578,1,Yes,4930,Afternoon
+15,Alka,37,Delhi,Books,Cookbook,5273,16,Yes,3606,Morning
+16,Zashil,50,Mumbai,Books,Fiction Novel,27963,15,No,6395,Night
+17,Yug,55,Delhi,Sportswear,Gym Bag,44194,24,Yes,2169,Night
+18,Ikbal,53,Hyderabad,Fashion,Sunglasses,39497,7,Yes,1209,Morning
+19,Janya,40,Hyderabad,Books,Self-Help Book,43359,9,No,3966,Morning
+20,Fariq,28,Chennai,Books,Cookbook,37645,2,No,6648,Morning
+21,Ojasvi,38,Mumbai,Books,Fiction Novel,24340,12,No,7494,Afternoon
+22,Dayamai,53,Hyderabad,Electronics,Power Bank,38401,9,No,4623,Night
+23,Yatan,29,Bangalore,Fashion,Sneakers,45653,17,Yes,878,Evening
+24,Vamakshi,35,Bangalore,Beauty,Skincare Set,7348,15,No,6637,Evening
+25,Hemani,55,Bangalore,Sportswear,Yoga Mat,30118,1,No,2945,Evening
+26,Osha,60,Delhi,Home Decor,Wall Art,39578,6,Yes,4070,Night
+27,Hiral,37,Mumbai,Home Decor,Wall Art,1986,22,No,909,Night
+28,Jhalak,36,Chennai,Electronics,Power Bank,33596,23,Yes,1370,Night
+29,Lakshmi,60,Delhi,Fashion,Sunglasses,31666,11,No,3970,Morning
+30,Mitesh,54,Hyderabad,Books,Cookbook,33832,5,Yes,5057,Evening
+31,Manan,36,Hyderabad,Electronics,Bluetooth Speaker,19380,13,Yes,5146,Night
+32,Triya,20,Hyderabad,Beauty,Perfume,3477,7,No,7304,Evening
+33,Gaurav,25,Chennai,Electronics,Smart Watch,10288,1,Yes,1765,Afternoon
+34,Zayyan,22,Mumbai,Beauty,Skincare Set,3704,9,No,5074,Night
+35,Ranbir,28,Kolkata,Sportswear,Running Shoes,44426,17,No,2059,Night
+36,Krishna,41,Delhi,Sportswear,Yoga Mat,24485,22,Yes,2855,Morning
+37,Dalaja,55,Hyderabad,Electronics,Smart Watch,7589,6,Yes,6587,Afternoon
+38,Leena,60,Hyderabad,Electronics,Bluetooth Speaker,33102,25,No,1734,Morning
+39,Upadhriti,36,Delhi,Beauty,Skincare Set,4793,6,No,6042,Night
+40,Tanmayi,22,Chennai,Beauty,Lipstick Kit,4906,7,No,5537,Evening
+41,Anamika,30,Chennai,Beauty,Face Serum,5596,21,Yes,1101,Night
+42,Baljiwan,48,Bangalore,Beauty,Perfume,32845,17,Yes,4703,Morning
+43,Anay,37,Delhi,Fashion,Sunglasses,16490,17,Yes,4152,Morning
+44,Yagnesh,46,Pune,Home Decor,Vase,9977,5,No,4942,Morning
+45,Veer,19,Bangalore,Books,Biography,19630,6,Yes,834,Evening
+46,Frado,53,Mumbai,Fashion,Sunglasses,43520,3,No,7932,Morning
+47,Fariq,59,Delhi,Electronics,Power Bank,1571,23,Yes,6887,Evening
+48,Gayathri,36,Bangalore,Home Decor,Cushion Set,21411,4,No,1750,Morning
+49,Hredhaan,58,Bangalore,Sportswear,Yoga Mat,43870,17,No,4317,Morning
+50,Damyanti,48,Hyderabad,Electronics,Bluetooth Speaker,3868,23,Yes,3259,Afternoon
+51,Janya,35,Bangalore,Fashion,Denim Jacket,49027,13,No,5890,Morning
+52,Tamanna,60,Hyderabad,Sportswear,Track Pants,13251,3,Yes,2605,Afternoon
+53,Leena,52,Bangalore,Books,Fiction Novel,24607,10,Yes,6589,Night
+54,Darpan,31,Kolkata,Electronics,Smart Watch,17981,18,No,6548,Morning
+55,Bhavya,26,Hyderabad,Home Decor,Vase,9169,22,No,5084,Morning
+56,Amaira,43,Pune,Home Decor,Vase,46206,7,No,1442,Afternoon
+57,Urvi,34,Bangalore,Fashion,Denim Jacket,30749,9,No,7788,Morning
+58,Osha,28,Hyderabad,Sportswear,Running Shoes,26659,15,No,3165,Night
+59,Qarin,42,Bangalore,Fashion,Sneakers,28850,11,Yes,6494,Morning
+60,Tamanna,52,Pune,Books,Self-Help Book,28058,2,Yes,1298,Afternoon
+61,Ranbir,24,Bangalore,Books,Biography,14714,4,No,6397,Morning
+62,Girindra,33,Pune,Beauty,Perfume,21195,12,No,2726,Night
+63,Frederick,42,Delhi,Sportswear,Gym Bag,31875,8,No,318,Morning
+64,Harrison,28,Kolkata,Home Decor,Cushion Set,7935,2,Yes,3089,Afternoon
+65,Oscar,34,Bangalore,Books,Biography,24776,6,No,6110,Night
+66,Abhiram,20,Hyderabad,Fashion,Sunglasses,21643,16,No,1493,Night
+67,Meera,35,Kolkata,Fashion,Sneakers,32131,12,Yes,6962,Night
+68,David,34,Chennai,Home Decor,Cushion Set,6860,18,No,436,Afternoon
+69,Alexander,26,Hyderabad,Beauty,Lipstick Kit,25872,7,No,5976,Afternoon
+70,Dhruv,27,Mumbai,Books,Fiction Novel,42864,15,Yes,7804,Evening
+71,Damini,53,Mumbai,Fashion,Sneakers,46242,23,Yes,6287,Evening
+72,Oviya,32,Hyderabad,Home Decor,Table Lamp,37305,5,No,6236,Morning
+73,David,40,Pune,Beauty,Face Serum,22058,7,No,3906,Afternoon
+74,Forum,35,Mumbai,Home Decor,Wall Art,4715,19,No,492,Morning
+75,Darika,57,Kolkata,Fashion,Handbag,21298,4,Yes,4779,Night
+76,Mitesh,56,Hyderabad,Electronics,Bluetooth Speaker,28833,4,Yes,3921,Night
+77,Nachiket,35,Pune,Beauty,Lipstick Kit,17612,15,No,6663,Evening
+78,Eiravati,46,Chennai,Home Decor,Vase,10049,18,Yes,2097,Afternoon
+79,Charvi,51,Bangalore,Beauty,Lipstick Kit,36637,16,No,7778,Night
+80,Omkaar,51,Bangalore,Fashion,Sunglasses,21730,6,Yes,3716,Afternoon
